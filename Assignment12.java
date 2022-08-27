@@ -1,4 +1,4 @@
-//Kratika's code
+//Kratika's code , character count 
 
 import java.util.*;
 public class Assignment2 {
